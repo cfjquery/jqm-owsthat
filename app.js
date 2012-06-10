@@ -156,7 +156,7 @@ $(function(){
 		            	//GET NEXT ACTIVE PLAYER
 		                activePlayer++;
 		                //LAST PLAYER HAS BATTED
-		                if(activePlayer == 2){
+		                if(activePlayer == 11){
 		                	if(activeTeam == 1){
 		                    	activeTeam++;
 		                    	activeTeamScore = 0;
