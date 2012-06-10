@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<owsthat>
+	<team teamid="0" teamname="Australia" teamshortname="Aus" teamflag="Australia">
+		<player id="0"><initials>EJM</initials><name>Cowan</name></player>
+		<player id="1"><initials>DA</initials><name>Warner</name></player>
+		<player id="2"><initials>SR</initials><name>Watson</name></player>
+		<player id="3"><initials>RT</initials><name>Ponting</name></player>
+		<player id="4"><initials>MJ</initials><name>Clarke</name></player>
+		<player id="5"><initials>MEK</initials><name>Hussey</name></player>
+		<player id="6"><initials>MS</initials><name>Wade</name></player>
+		<player id="7"><initials>RJ</initials><name>Harris</name></player>
+		<player id="8"><initials>MA</initials><name>Starc</name></player>
+		<player id="9"><initials>BW</initials><name>Hilfenhaus</name></player>
+		<player id="10"><initials>NM</initials><name>Lyon</name></player>
+	</team>
+	<team teamid="1" teamname="Bangladesh" teamshortname="Ban" teamflag="Bangladesh">
+		<player id="0"><initials>Tamim</initials><name>Iqbal</name></player>
+		<player id="1"><initials>Nazimuddin</initials><name>Nazimuddin</name></player>
+		<player id="2"><initials>Jahurul</initials><name>Islam</name></player>
+		<player id="3"><initials>Nasir</initials><name>Hossain</name></player>
+		<player id="4"><initials>Shakib</initials><name>Hasan</name></player>
+		<player id="5"><initials>Mushfiqur</initials><name>Rahim</name></player>
+		<player id="6"><initials>Mahmudullah</initials><name>Mahmudullah</name></player>
+		<player id="7"><initials>Mashrafe</initials><name>Mortaza</name></player>
+		<player id="8"><initials>Abdur</initials><name>Razzak</name></player>
+		<player id="9"><initials>Shahadat</initials><name>Hossain</name></player>
+		<player id="10"><initials>Mohammad</initials><name>Ashraful</name></player>
+	</team>
+	<team teamid="2" teamname="England" teamshortname="Eng" teamflag="England">
+		<player id="0"><initials>AJ</initials><name>Strauss</name></player>
+		<player id="1"><initials>AN</initials><name>Cook</name></player>
+		<player id="2"><initials>IJL</initials><name>Trot</name></player>
+		<player id="3"><initials>KP</initials><name>Pietersen</name></player>
+		<player id="4"><initials>IR</initials><name>Bell</name></player>
+		<player id="5"><initials>JM</initials><name>Bairstow</name></player>
+		<player id="6"><initials>MJ</initials><name>Prior</name></player>
+		<player id="7"><initials>TT</initials><name>Bresnan</name></player>
+		<player id="8"><initials>SCJ</initials><name>Broad</name></player>
+		<player id="9"><initials>GP</initials><name>Swann</name></player>
+		<player id="10"><initials>JM</initials><name>Anderson</name></player>
+	</team>
+	<team teamid="3" teamname="India" teamshortname="Ind" teamflag="India">
+		<player id="0"><initials>G</initials><name>Gambhir</name></player>
+		<player id="1"><initials>V</initials><name>Sehwag</name></player>
+		<player id="2"><initials>R</initials><name>Dravid</name></player>
+		<player id="3"><initials>SR</initials><name>Tendulkar</name></player>
+		<player id="4"><initials>VVS</initials><name>Laxman</name></player>
+		<player id="5"><initials>V</initials><name>Kohli</name></player>
+		<player id="6"><initials>WP</initials><name>Saha</name></player>
+		<player id="7"><initials>R</initials><name>Ashwin</name></player>
+		<player id="8"><initials>Z</initials><name>Khan</name></player>
+		<player id="9"><initials>I</initials><name>Sharma</name></player>
+		<player id="10"><initials>UT</initials><name>Yadav</name></player>	
+	</team>
+	<team teamid="4" teamname="New Zealand" teamshortname="NZ" teamflag="New-Zealand">
+		<player id="0"><initials>DR</initials><name>Flynn</name></player>
+		<player id="1"><initials>MJ</initials><name>Guptill</name></player>
+		<player id="2"><initials>BB</initials><name>McCullum</name></player>
+		<player id="3"><initials>LRPL</initials><name>Taylor</name></player>
+		<player id="4"><initials>KS</initials><name>Williamson</name></player>
+		<player id="5"><initials>DG</initials><name>Brownlie</name></player>
+		<player id="6"><initials>DL</initials><name>Vettori</name></player>
+		<player id="7"><initials>CFK</initials><name>Wyk</name></player>
+		<player id="8"><initials>DAJ</initials><name>Bracewell</name></player>
+		<player id="9"><initials>MR</initials><name>Gillespie</name></player>
+		<player id="10"><initials>CS</initials><name>Martin</name></player>
+	</team>
+	<team teamid="5" teamname="Pakistan" teamshortname="Pak" teamflag="Pakistan">
+		<player id="0"><initials>Mohammad</initials><name>Hafeez</name></player>
+		<player id="1"><initials>Taufeeq</initials><name>Umar</name></player>
+		<player id="2"><initials>Azhar</initials><name>Ali</name></player>
+		<player id="3"><initials>Younis</initials><name>Khan</name></player>
+		<player id="4"><initials>Misbah-ul-Haq</initials><name>Misbah-ul-Haq</name></player>
+		<player id="5"><initials>Asad</initials><name>Shafiq</name></player>
+		<player id="6"><initials>Adnan</initials><name>Akmal</name></player>
+		<player id="7"><initials>Abdur</initials><name>Rehman</name></player>
+		<player id="8"><initials>Saeed</initials><name>Ajmal</name></player>
+		<player id="9"><initials>Umar</initials><name>Gul</name></player>
+		<player id="10"><initials>Aizaz</initials><name>Cheema</name></player>
+	</team>
+	<team teamid="6" teamname="South Africa" teamshortname="SA" teamflag="South-Africa">
+		<player id="0"><initials>VD</initials><name>Philander</name></player>
+		<player id="1"><initials>GC</initials><name>Smith</name></player>
+		<player id="2"><initials>AN</initials><name>Petersen</name></player>
+		<player id="3"><initials>HM</initials><name>Amla</name></player>
+		<player id="4"><initials>JP</initials><name>Duminy</name></player>
+		<player id="5"><initials>AB</initials><name>Villiers</name></player>
+		<player id="6"><initials>JA</initials><name>Rudolph</name></player>
+		<player id="7"><initials>MV</initials><name>Boucher</name></player>
+		<player id="8"><initials>DW</initials><name>Steyn</name></player>
+		<player id="9"><initials>VD</initials><name>Philander</name></player>
+		<player id="10"><initials>M</initials><name>Morkel</name></player>
+	</team>
+	<team teamid="7" teamname="Sri Lanka" teamshortname="SL" teamflag="Sri-Lanka">
+		<player id="0"><initials>HDRL</initials><name>Thirimanne</name></player>
+		<player id="1"><initials>TM</initials><name>Dilshan</name></player>
+		<player id="2"><initials>KC</initials><name>Sangakkara</name></player>
+		<player id="3"><initials>DPMD</initials><name>Jayawardene</name></player>
+		<player id="4"><initials>TT</initials><name>Samaraweera</name></player>
+		<player id="5"><initials>AD</initials><name>Mathews</name></player>
+		<player id="6"><initials>HAPW</initials><name>Jayawardene</name></player>
+		<player id="7"><initials>S</initials><name>Randiv</name></player>
+		<player id="8"><initials>KTGD</initials><name>Prasad</name></player>
+		<player id="9"><initials>HMRKB</initials><name>Herath</name></player>
+		<player id="10"><initials>RAS</initials><name>Lakmal</name></player>
+	</team>
+	<team teamid="8" teamname="West Indies" teamshortname="WI" teamflag="West-Indies">
+		<player id="0"><initials>AB</initials><name>Barath</name></player>
+		<player id="1"><initials>KOA</initials><name>Powell</name></player>
+		<player id="2"><initials>KA</initials><name>Edwards</name></player>
+		<player id="3"><initials>DM</initials><name>Bravo</name></player>
+		<player id="4"><initials>S</initials><name>Chanderpaul</name></player>
+		<player id="5"><initials>MN</initials><name>Samuels</name></player>
+		<player id="6"><initials>D</initials><name>Ramdin</name></player>
+		<player id="7"><initials>DJG</initials><name>Sammy</name></player>
+		<player id="8"><initials>KAJ</initials><name>Roach</name></player>
+		<player id="9"><initials>S</initials><name>Shillingford</name></player>
+		<player id="10"><initials>R</initials><name>Rampaul</name></player>
+	</team>
+	<team teamid="9" teamname="Zimbabwe" teamshortname="Zim" teamflag="Zimbabwe">
+		<player id="0"><initials>TMK</initials><name>Mawoyo</name></player>
+		<player id="1"><initials>H</initials><name>Masakadza</name></player>
+		<player id="2"><initials>F</initials><name>Mutizwa</name></player>
+		<player id="3"><initials>BRM</initials><name>Taylor</name></player>
+		<player id="4"><initials>T</initials><name>Taibu</name></player>
+		<player id="5"><initials>MN</initials><name>Waller</name></player>
+		<player id="6"><initials>RW</initials><name>Chakabva</name></player>
+		<player id="7"><initials>AG</initials><name>Cremer</name></player>
+		<player id="8"><initials>SW</initials><name>Masakadza</name></player>
+		<player id="9"><initials>KM</initials><name>Jarvis</name></player>
+		<player id="10"><initials>BV</initials><name>Vitori</name></player>
+	</team>
+</owsthat>

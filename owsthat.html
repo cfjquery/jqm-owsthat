@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Owsthat</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.css" />
+	<link rel="stylesheet" href="themes/owsthat.css" />
+	<script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"></script>
+	<script src="app.js"></script>
+</head>
+<body>
+	<div data-role="page" id="selectTeams">
+		<div data-role="header">
+			<h1>Owsthat</h1>
+		</div>
+		<div data-role="content">
+			<fieldset data-role="controlgroup">
+				<div data-role="fieldcontain" class="ui-hide-label">
+					<select name="selectTeam1" id="selectTeam1">
+						<option value="-1">Select Opponet team</option>
+					</select>
+					<select name="selectTeam2" id="selectTeam2">
+						<option value="-1">Select Your Team</option>
+					</select>
+				</div>
+			</fieldset>
+			<a href="#playGame" id="btnStart" data-role="button">Start</a>
+		</div>
+		<div data-role="footer" class="footer-docs">
+			<h5>&copy; cfJquery</h5>
+		</div>
+	</div>
+	<div data-role="page" id="playGame">
+		<div data-role="header">
+			<table align="center">
+				<tr>
+					<td class="headerScore"><img src="" id="headerFlagName_1" /></td>
+					<td class="headerScore" id="headerTeamScore_1"></td>
+					<td class="headerScore"> for </td>
+					<td class="headerScore" id="headerTeamOut_1"></td>
+					<td class="headerScore">&nbsp;&nbsp;VS&nbsp;&nbsp;</td>
+					<td class="headerScore" id="headerTeamScore_2"></td>
+					<td class="headerScore">for</td>
+					<td class="headerScore" id="headerTeamOut_2"></td>
+					<td class="headerScore"><img src="" id="headerFlagName_2" /></td>
+				</tr>
+				<tr>
+					<td class="headerScore" id="headerTeamName_1"></td>
+					<td class="headerScore" id="oversPlayed_1"></td>
+					<td class="headerScore" colspan="5"></td>
+					<td class="headerScore" id="oversPlayed_2"></td>
+					<td class="headerScore" id="headerTeamName_2"></td>
+				</tr>
+			</table>	
+		</div>
+		<div data-role="content">
+			<a href="#" id="btnBat" data-role="button">Bat</a>
+			<div id="txtCommentary"></div>
+		</div>
+		<div data-role="footer" class="footer-docs">
+			<h5>&copy; cfJquery</h5>
+		</div>
+	</div>
+</body>
+</html>
